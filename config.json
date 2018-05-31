@@ -1,0 +1,9 @@
+{
+ "local_folder": "C:\\Users\\marci\\Desktop\\local\\",
+ "remote_folder": "/home/stud/ic2015/mdamek/remote",
+ "server_address": "149.156.111.10",
+ "port": 22,
+ "username": "mdamek",
+ "mode": "overwrite",
+ "ignore": ["bmp"]
+}
